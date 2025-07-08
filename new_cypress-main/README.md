@@ -23,10 +23,10 @@
 ![image](https://raw.githubusercontent.com/Valentin-2025/-cypress.js/refs/heads/main/new_cypress-main/Before%20After.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/user_data.png)
+![image](https://raw.githubusercontent.com/Valentin-2025/-cypress.js/refs/heads/main/new_cypress-main/Avtoriz.png)
 
 4. Каждая страница описана в формате объекта с локаторами
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/locators.png)
+![image](https://raw.githubusercontent.com/Valentin-2025/-cypress.js/refs/heads/main/new_cypress-main/Lokator.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
