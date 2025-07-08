@@ -49,7 +49,7 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 7. Выбрать спеку lesson_locators
 
 Ожидаемый результат: получим отчет о прохождении тестов.
-![image](https://raw.githubusercontent.com/Valentin-2025/-cypress.js/refs/heads/main/Cypress_cli.png)
+![image](https://raw.githubusercontent.com/Valentin-2025/-cypress.js/refs/heads/main/new_cypress-main/cy.png)
 
 
 ## Автор
