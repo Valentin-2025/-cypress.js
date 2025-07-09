@@ -37,7 +37,7 @@
 ```
 npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 ```
-Ожидаемый результат: получим отчет о прохождении тестов.
+Ожидаемый результат: получим отчёт о прохождении тестов.
 ![image](https://raw.githubusercontent.com/Valentin-2025/-cypress.js/refs/heads/main/Cypress_cli.png)
 
 
@@ -50,5 +50,8 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 6. Выбрать в Cypress UI E2E тестирование и браузер Google Chrome
 7. Выбрать спеку lesson_locators
 
-Ожидаемый результат: получим отчет о прохождении тестов.
+Ожидаемый результат: получим отчёт о прохождении тестов.
 ![image](https://raw.githubusercontent.com/Valentin-2025/-cypress.js/refs/heads/main/new_cypress-main/cy.png)
+
+
+Валентин Ретюнский (email: retvaliv72@mail.ru, @ValentinRet)
