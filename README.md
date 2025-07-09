@@ -54,4 +54,4 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 ![image](https://raw.githubusercontent.com/Valentin-2025/-cypress.js/refs/heads/main/new_cypress-main/cy.png)
 
 
-Валентин Ретюнский (email: retvaliv72@mail.ru, @ValentinRet)
+Валентин Ретюнский (email: retvaliv72@mail.ru), ([@ValentinRet](https://t.me/ValentinRet))
